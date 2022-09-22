@@ -9,7 +9,7 @@
  
 ### 개인별 파일럿 프로젝트 1 - 개별 데이터 셋 선정 및 개인별 분석해 보기
  * 😄 내용 : 개인별 데이터 셋을 선정 후, 이를 분석 및 기본 모델 만들어보기
- [이동](https://ldjwj.github.io/Goorm_3rd_DataCourse/01_Pilot_Project_First) 
+ [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse/tree/main/01_Pilot_Project_First) 
 
 
 ### 개인별 파일럿 프로젝트 2 - 프로젝트
