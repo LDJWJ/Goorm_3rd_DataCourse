@@ -60,7 +60,7 @@
 		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
 		</td>
 		<td width="100">
-		<div align="center"><font color="#FFFFFF"><b>Document </b></font></div>
+		<div align="center"><font color="#FFFFFF"><b>MyImage</b></font></div>
 		</td>
 		<td width="120">
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
@@ -121,7 +121,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
+				<a href="결과링크">[결과보고]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             		</div>
         	</td>
@@ -149,7 +149,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
+				<a href="결과링크">[결과보고]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             		</div>
         	</td>
@@ -178,7 +178,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
+				<a href="결과링크">[결과보고]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             		</div>
         	</td>
