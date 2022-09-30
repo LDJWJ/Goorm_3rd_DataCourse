@@ -59,6 +59,9 @@
 		<td width="300">
 		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
 		</td>
+		<td width="100">
+		<div align="center"><font color="#FFFFFF"><b>Data </b></font></div>
+		</td>
 		<td width="120">
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
 		</td>
@@ -68,95 +71,117 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 김현오 <br/> 
-            <b></b>
-		</div>
+			<div align="center"> 팀명: 김현오 <br/> 
+				<b></b>
+			</div>
 		</td>
 		<td>
-            <div align="left">___</div>
-        </td>
+            		<div align="left">김현오</div>
+        	</td>
 		<td>
 			<div align="left"> 신생아 출생별 인당 사회기반 시설물별 안전점검 기술자 수 </div></td>
 		<td>
-            <div align="center"> <a href="">
-				<img src='images/---' width=200 height=100  alt="---"></a>    
-            </div>
-        </td>
+            		<div align="center"> <a href="">
+			<img src='images/---' width=200 height=100  alt="---"></a>    
+            		</div>
+        	</td>
 		<td>
-            <div align="center"> 
-					<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
-					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-            </div>
-        </td>
+            		<div align="center"> 
+				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+			</div>
+        	</td>
+		<td>
+            		<div align="center"> 
+				<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
+				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
+            		</div>
+        	</td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 오동익 <br/> 
-            <b></b>
-		</div>
+			<div align="center"> 팀명: 오동익 <br/> 
+				<b></b>
+			</div>
 		</td>
 		<td>
-            <div align="left">___</div>
-        </td>
+            		<div align="left">오동익</div>
+        	</td>
 		<td>
 			<div align="left"> 각 분야별 예술인 목록 분석 </div></td>
 		<td>
-            <div align="center"> <a href="">
-				<img src='images/---' width=200 height=100  alt="---"></a>    
-            </div>
-        </td>
+            		<div align="center"> <a href="">
+			<img src='images/---' width=200 height=100  alt="---"></a>    
+            		</div>
+        	</td>
 		<td>
-            <div align="center"> 
-					<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
-					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-            </div>
-        </td>
+            		<div align="center"> 
+				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+				<a href="https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3076e909-db81-4e46-b2e5-f233e5613e97">데이터 셋으로 이동(예술디지털 아카이브 정보)</a> &nbsp;&nbsp;&nbsp;
+			</div>
+        	</td>
+		<td>
+            		<div align="center"> 
+				<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
+				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
+            		</div>
+        	</td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 임지윤 <br/> 
-            <b></b>
-		</div>
+			<div align="center"> 팀명: 임지윤 <br/> 
+				<b></b>
+			</div>
 		</td>
 		<td>
-            <div align="left">___</div>
-        </td>
+            		<div align="left">임지윤</div>
+        	</td>
 		<td>
 			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div></td>
 		<td>
-            <div align="center"> <a href="">
-				<img src='images/---' width=200 height=100  alt="---"></a>    
-            </div>
-        </td>
+            		<div align="center"> <a href="">
+			<img src='images/---' width=200 height=100  alt="---"></a>    
+            		</div>
+        	</td>
 		<td>
-            <div align="center"> 
-					<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
-					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-            </div>
-        </td>
+            		<div align="center"> 
+				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;				
+			</div>
+        	</td>
+		<td>
+            		<div align="center"> 
+				<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
+				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
+            		</div>
+        	</td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 김태찬 <br/> 
-            <b></b>
-		</div>
+			<div align="center"> 팀명: 김태찬 <br/> 
+				<b></b>
+			</div>
 		</td>
 		<td>
-            <div align="left">___</div>
-        </td>
+            		<div align="left">임지윤</div>
+        	</td>
 		<td>
-			<div align="left"> Rain in Australia </div></td>
+			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div></td>
 		<td>
-            <div align="center"> <a href="">
-				<img src='images/---' width=200 height=100  alt="---"></a>    
-            </div>
-        </td>
+            		<div align="center"> <a href="">
+			<img src='images/---' width=200 height=100  alt="---"></a>    
+            		</div>
+        	</td>
 		<td>
-            <div align="center"> 
-					<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
-					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-            </div>
-        </td>
+            		<div align="center"> 
+				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+				<a href="https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?select=weatherAUS.csv">데이터 셋으로 이동</a> &nbsp;&nbsp;&nbsp;
+			</div>
+        	</td>
+		<td>
+            		<div align="center"> 
+				<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
+				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
+            		</div>
+        	</td>
 	</tr>
 </table>
 </div>
