@@ -87,7 +87,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+				<a href="./reports/Goorm2209_KimHy.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
 			</div>
         	</td>
 		<td>
@@ -115,7 +115,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+				<a href="./reports/Goorm2209_ohdong.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
 				<a href="https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3076e909-db81-4e46-b2e5-f233e5613e97">데이터 셋으로 이동(예술디지털 아카이브 정보)</a> &nbsp;&nbsp;&nbsp;
 			</div>
         	</td>
@@ -144,7 +144,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;				
+				<a href="./reports/Goorm2209_LimJ.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;				
 			</div>
         	</td>
 		<td>
