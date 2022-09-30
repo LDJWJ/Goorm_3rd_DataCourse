@@ -92,7 +92,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="결과링크">[결과보고]</a> &nbsp;&nbsp;&nbsp;
+				<a href="결과링크">[결과보고]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             		</div>
         	</td>
