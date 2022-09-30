@@ -68,7 +68,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 김현오 <br/>(팀장:김현오)<br/> 
+        <div align="center"> 팀명: 김현오 <br/> 
             <b></b>
 		</div>
 		</td>
@@ -91,7 +91,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 오동익 <br/>(팀장:오동익)<br/> 
+        <div align="center"> 팀명: 오동익 <br/> 
             <b></b>
 		</div>
 		</td>
@@ -99,7 +99,7 @@
             <div align="left">___</div>
         </td>
 		<td>
-			<div align="left"> 프로젝트 주제 </div></td>
+			<div align="left"> 각 분야별 예술인 목록 분석 </div></td>
 		<td>
             <div align="center"> <a href="">
 				<img src='images/---' width=200 height=100  alt="---"></a>    
@@ -114,7 +114,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: ___ <br/>(팀장:___)<br/> 
+        <div align="center"> 팀명: 임지윤 <br/> 
             <b></b>
 		</div>
 		</td>
@@ -122,7 +122,7 @@
             <div align="left">___</div>
         </td>
 		<td>
-			<div align="left"> 프로젝트 주제 </div></td>
+			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div></td>
 		<td>
             <div align="center"> <a href="">
 				<img src='images/---' width=200 height=100  alt="---"></a>    
@@ -137,7 +137,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: ___ <br/>(팀장:___)<br/> 
+        <div align="center"> 팀명: 김태찬 <br/> 
             <b></b>
 		</div>
 		</td>
@@ -145,7 +145,7 @@
             <div align="left">___</div>
         </td>
 		<td>
-			<div align="left"> 프로젝트 주제 </div></td>
+			<div align="left"> Rain in Australia </div></td>
 		<td>
             <div align="center"> <a href="">
 				<img src='images/---' width=200 height=100  alt="---"></a>    
