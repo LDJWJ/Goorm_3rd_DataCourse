@@ -60,7 +60,7 @@
 		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
 		</td>
 		<td width="100">
-		<div align="center"><font color="#FFFFFF"><b>Data </b></font></div>
+		<div align="center"><font color="#FFFFFF"><b>Document </b></font></div>
 		</td>
 		<td width="120">
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
