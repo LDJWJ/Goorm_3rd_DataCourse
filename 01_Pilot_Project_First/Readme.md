@@ -107,7 +107,7 @@
             		<div align="left">오동익</div>
         	</td>
 		<td>
-			<div align="left"> 각 분야별 예술인 목록 분석 </div></td>
+			<div align="left"> 각 분야별 예술인 목록 분석 <br> 데이터 셋 : 예술디지털 아카이브 정보 </div></td>
 		<td>
             		<div align="center"> <a href="">
 			<img src='images/---' width=200 height=100  alt="---"></a>    
@@ -116,7 +116,7 @@
 		<td>
             		<div align="center"> 
 				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
-				<a href="https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3076e909-db81-4e46-b2e5-f233e5613e97">데이터 셋으로 이동(예술디지털 아카이브 정보)</a> &nbsp;&nbsp;&nbsp;
+				<a href="https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3076e909-db81-4e46-b2e5-f233e5613e97">데이터 </a> &nbsp;&nbsp;&nbsp;
 			</div>
         	</td>
 		<td>
@@ -164,7 +164,7 @@
             		<div align="left">임지윤</div>
         	</td>
 		<td>
-			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div></td>
+			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 <br>  </div></td>
 		<td>
             		<div align="center"> <a href="">
 			<img src='images/---' width=200 height=100  alt="---"></a>    
@@ -173,7 +173,7 @@
 		<td>
             		<div align="center"> 
 				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
-				<a href="https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?select=weatherAUS.csv">데이터 셋으로 이동</a> &nbsp;&nbsp;&nbsp;
+				<a href="https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?select=weatherAUS.csv">데이터 링크</a> &nbsp;&nbsp;&nbsp;
 			</div>
         	</td>
 		<td>
