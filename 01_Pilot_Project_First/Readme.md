@@ -15,15 +15,15 @@
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
 파일럿 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
-* 기간 : 2022.09.22(목) ~ 2022.09.29(목) <br>
+* 기간 : 2022.09.22(목) ~ 2022.09.30(금) <br>
   * STEP 01. 프로젝트 주제 선정 및 일정 세우기<br>
   * STEP 02. 데이터 수집 및 처리/시각화/기본 모델 만들기<br>
   * STEP 03. 모델 개선/성능 개선 및 새로운 지식 익히기<br>
-  * STEP 04. 최종 결과물 제출 - 2022.09.28(수) 22:00 <br>
-  * STEP 05. 프로젝트 발표 09.29 <br>
+  * STEP 04. 최종 결과물 제출 - 2022.09.29(목) 22:00 <br>
+  * STEP 05. 프로젝트 발표 09.30 <br>
   
 * 팀별 최종 발표   <br>
-  * 2022.09.29(목) 09:00~13:00 (각 개인별 발표 시간 10분 내외)
+  * 2022.09.30(금) 09:00~13:00 (각 개인별 발표 시간 10분 내외)
 <hr>
 
 ## <font color='#00AAAA'>Reference Documents</font>
@@ -68,7 +68,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: ___ <br/>(팀장:___)<br/> 
+        <div align="center"> 팀명: 김현오 <br/>(팀장:김현오)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -76,7 +76,7 @@
             <div align="left">___</div>
         </td>
 		<td>
-			<div align="left"> 프로젝트 주제 </div></td>
+			<div align="left"> 신생아 출생별 인당 사회기반 시설물별 안전점검 기술자 수 </div></td>
 		<td>
             <div align="center"> <a href="">
 				<img src='images/---' width=200 height=100  alt="---"></a>    
@@ -91,7 +91,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: ___ <br/>(팀장:___)<br/> 
+        <div align="center"> 팀명: 오동익 <br/>(팀장:오동익)<br/> 
             <b></b>
 		</div>
 		</td>
