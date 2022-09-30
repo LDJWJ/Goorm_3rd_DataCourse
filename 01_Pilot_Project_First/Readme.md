@@ -107,7 +107,7 @@
             		<div align="left">오동익</div>
         	</td>
 		<td>
-			<div align="left"> 각 분야별 예술인 목록 분석 </div></td>
+			<div align="left"> 각 분야별 예술인 목록 분석 <br> 데이터셋: 예술디지털 아카이브 정보 </div></td>
 		<td>
             		<div align="center"> <a href="">
 			<img src='images/---' width=200 height=100  alt="---"></a>    
@@ -116,7 +116,7 @@
 		<td>
             		<div align="center"> 
 				<a href="./reports/Goorm2209_ohdong.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
-				<a href="https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3076e909-db81-4e46-b2e5-f233e5613e97">데이터 셋으로 이동(예술디지털 아카이브 정보)</a> &nbsp;&nbsp;&nbsp;
+				<a href="https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3076e909-db81-4e46-b2e5-f233e5613e97">데이터 셋으로</a> &nbsp;&nbsp;&nbsp;
 			</div>
         	</td>
 		<td>
