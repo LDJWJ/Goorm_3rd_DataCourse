@@ -1,6 +1,6 @@
 
 # AI School
-* KICT 프로젝트반
+* KICT 프로젝트반 - 두번째 프로젝트 [분야별 데이터 셋 분석하기]
 
 <div align='right'>
     <font size=2 color='gray'>파이썬@ <font color='blue'>
@@ -10,7 +10,7 @@
 <hr>
 <h2><font color="#00CCCC"><b>데이터 사이언티스트 실무자</b></font></h2>
 
-<img src="./images/just_start.jpg">
+<img src="./images/lifegoodScience.jpg">
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
@@ -39,7 +39,7 @@
 <hr>
 
 
-##  <font color='#00AAAA'>Pilot Project</font>
+##  <font color='#00AAAA'>Data Project</font>
 
 - <b>1st Subject </b>: <font color='#CC0000'><b> 우리의 관심 분야 데이터 수집/분석해보기 </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b> 작은 태도, 작은 땀, 작은 노력이 모여 지금과 미래를 결정합니다. </b></font>
@@ -79,7 +79,7 @@
             		<div align="left">김현오</div>
         	</td>
 		<td>
-			<div align="left"> 신생아 출생별 인당 사회기반 시설물별 안전점검 기술자 수 </div></td>
+			<div align="left"> 표면 균열 검출 </div></td>
 		<td>
             		<div align="center"> <a href="">
 			<img src='images/KimHO.jpg' width=200 height=100  alt="image not found"></a>    
@@ -92,7 +92,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="결과링크">[결과보고]</a><br>
+				<a href="결과링크">[우리의 작품]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             		</div>
         	</td>
@@ -107,7 +107,7 @@
             		<div align="left">김태찬</div>
         	</td>
 		<td>
-			<div align="left"> 호주 강우량 예측  </div></td>
+			<div align="left"> -----------  </div></td>
 		<td>
             	<div align="center"> <a href="">
 				<img src='images/KimTC.jpg' width=200 height=100  alt="image not found"></a>    
@@ -121,7 +121,7 @@
         </td>
 		<td>
             	<div align="center"> 
-					<a href="결과링크">[결과보고]</a><br>
+					<a href="결과링크">[우리의 작품]</a><br>
 					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             	</div>
         </td>
@@ -136,7 +136,7 @@
             <div align="left">오동익</div>
         </td>
 		<td>
-			<div align="left"> 각 분야별 예술인 목록 분석 <br> 데이터셋: 예술디지털 아카이브 정보 </div></td>
+			<div align="left"> American Express - Default Prediction  </div></td>
 		<td>
 			<div align="center"> <a href="">
 				<img src='images/OhDG.png' width=200 height=100  alt="image not found"></a>    
@@ -150,7 +150,7 @@
         </td>
 		<td>
 			<div align="center"> 
-				<a href="결과링크">[결과보고]</a><br>
+				<a href="결과링크">[우리의 작품]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
         </td>
@@ -165,7 +165,7 @@
             <div align="left">임지윤</div>
         </td>
 		<td>
-			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div>
+			<div align="left"> American Express - Default Prediction </div>
 		</td>
 		<td>
         	<div align="center"> <a href="">
@@ -179,7 +179,7 @@
         	</td>
 		<td>
             <div align="center"> 
-				<a href="결과링크">[결과보고]</a><br>
+				<a href="결과링크">[우리의 작품]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             </div>
         </td>
