@@ -12,6 +12,8 @@
 
 <img src="./images/lifegoodScience.jpg">
 
+* 기술은 사람과 좋은 세상을 만드는 곳에 사용되어야 한다. 또한 그 과정 또한 선하고 정직해야 한다.
+
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
 파일럿 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
