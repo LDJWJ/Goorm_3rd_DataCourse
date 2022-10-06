@@ -82,7 +82,7 @@
 			<div align="left"> 신생아 출생별 인당 사회기반 시설물별 안전점검 기술자 수 </div></td>
 		<td>
             		<div align="center"> <a href="">
-			<img src='images/---' width=200 height=100  alt="---"></a>    
+			<img src='images/KimHO.jpg' width=200 height=100  alt="image not found"></a>    
             		</div>
         	</td>
 		<td>
@@ -107,23 +107,24 @@
             		<div align="left">김태찬</div>
         	</td>
 		<td>
-			<div align="left"> --- </div></td>
+			<div align="left"> 호주 강우량 예측  </div></td>
 		<td>
-            		<div align="center"> <a href="">
-			<img src='images/---' width=200 height=100  alt="---"></a>    
-            		</div>
-        	</td>
+            	<div align="center"> <a href="">
+				<img src='images/KimTC.jpg' width=200 height=100  alt="image not found"></a>    
+            	</div>
+        </td>
 		<td>
-            		<div align="center"> 
-				<a href="./reports/Goorm2209_KimHy.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
-			</div>
-        	</td>
+            	<div align="center"> 
+					<a href="./reports/Goorm2209_ohdong.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+					<a href="https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package">데이터 셋으로</a> &nbsp;&nbsp;&nbsp;
+				</div>
+        </td>
 		<td>
-            		<div align="center"> 
-				<a href="결과링크">[결과보고]</a><br>
-				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-            		</div>
-        	</td>
+            	<div align="center"> 
+					<a href="결과링크">[결과보고]</a><br>
+					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
+            	</div>
+        </td>
 	</tr>
 	<tr>
 		<td>
@@ -132,27 +133,27 @@
 			</div>
 		</td>
 		<td>
-            		<div align="left">오동익</div>
-        	</td>
+            <div align="left">오동익</div>
+        </td>
 		<td>
 			<div align="left"> 각 분야별 예술인 목록 분석 <br> 데이터셋: 예술디지털 아카이브 정보 </div></td>
 		<td>
-            		<div align="center"> <a href="">
-			<img src='images/---' width=200 height=100  alt="---"></a>    
-            		</div>
-        	</td>
+			<div align="center"> <a href="">
+				<img src='images/OhDG.png' width=200 height=100  alt="image not found"></a>    
+            </div>
+        </td>
 		<td>
-            		<div align="center"> 
+        	<div align="center"> 
 				<a href="./reports/Goorm2209_ohdong.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
 				<a href="https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3076e909-db81-4e46-b2e5-f233e5613e97">데이터 셋으로</a> &nbsp;&nbsp;&nbsp;
 			</div>
-        	</td>
+        </td>
 		<td>
-            		<div align="center"> 
+			<div align="center"> 
 				<a href="결과링크">[결과보고]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-            		</div>
-        	</td>
+			</div>
+        </td>
 	</tr>
 	<tr>
 		<td>
@@ -161,55 +162,27 @@
 			</div>
 		</td>
 		<td>
-            		<div align="left">임지윤</div>
-        	</td>
+            <div align="left">임지윤</div>
+        </td>
 		<td>
-			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div></td>
-		<td>
-            		<div align="center"> <a href="">
-			<img src='images/---' width=200 height=100  alt="---"></a>    
-            		</div>
-        	</td>
-		<td>
-            		<div align="center"> 
-				<a href="./reports/Goorm2209_LimJ.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;				
-			</div>
-        	</td>
-		<td>
-            		<div align="center"> 
-				<a href="결과링크">[결과보고]</a><br>
-				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-            		</div>
-        	</td>
-	</tr>
-	<tr>
-		<td>
-			<div align="center"> 팀명: 김태찬 <br/> 
-				<b></b>
-			</div>
+			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div>
 		</td>
 		<td>
-            		<div align="left">임지윤</div>
-        	</td>
+        	<div align="center"> <a href="">
+			<img src='images/LimJY.jpg' width=200 height=100  alt="-----"></a>    
+			</div>
+        </td>
 		<td>
-			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div></td>
-		<td>
-            		<div align="center"> <a href="">
-			<img src='images/---' width=200 height=100  alt="---"></a>    
-            		</div>
-        	</td>
-		<td>
-            		<div align="center"> 
-				<a href="결과링크">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
-				<a href="https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?select=weatherAUS.csv">데이터 셋으로 이동</a> &nbsp;&nbsp;&nbsp;
+            <div align="center"> 
+				<a href="./reports/Goorm2209_LimJ.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;
 			</div>
         	</td>
 		<td>
-            		<div align="center"> 
+            <div align="center"> 
 				<a href="결과링크">[결과보고]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-            		</div>
-        	</td>
+            </div>
+        </td>
 	</tr>
 </table>
 </div>
