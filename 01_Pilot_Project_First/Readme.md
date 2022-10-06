@@ -99,6 +99,34 @@
 	</tr>
 	<tr>
 		<td>
+			<div align="center"> 팀명: 김태찬 <br/> 
+				<b></b>
+			</div>
+		</td>
+		<td>
+            		<div align="left">김태찬</div>
+        	</td>
+		<td>
+			<div align="left"> --- </div></td>
+		<td>
+            		<div align="center"> <a href="">
+			<img src='images/---' width=200 height=100  alt="---"></a>    
+            		</div>
+        	</td>
+		<td>
+            		<div align="center"> 
+				<a href="./reports/Goorm2209_KimHy.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+			</div>
+        	</td>
+		<td>
+            		<div align="center"> 
+				<a href="결과링크">[결과보고]</a><br>
+				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
+            		</div>
+        	</td>
+	</tr>
+	<tr>
+		<td>
 			<div align="center"> 팀명: 오동익 <br/> 
 				<b></b>
 			</div>
