@@ -12,7 +12,7 @@
  * 😄 기간 : 2022.09.22(목) ~ 2022.09.30(금)
 
 ### 파일럿 프로젝트 2 - 프로젝트
- * 😄 내용 : 분야별 데이터 분석 및 예측 모델링  [이동]() 
+ * 😄 내용 : 분야별 데이터 분석 및 예측 모델링  [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse/tree/main/02_SecondProject_MLDL)  
    * American Express - Default Prediction 캐글 대회
    * 건물 표면 균열 이미지 데이터 분석
    * 태양광 데이터 셋 분석 및 예측 모델링
