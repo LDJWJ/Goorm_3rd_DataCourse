@@ -193,7 +193,7 @@
 Goorm 인공지능 프로젝트 3기! 최고 멋진 친구들 화이팅!!!
 <hr>
 
-##  <font color='#00AAAA'>Pilot Project : Final Report</font>
+##  <font color='#00AAAA'>Data Project : Final Report</font>
 - <b>Submission   </b>: 착수보고, 결과보고, 소스코드
 - <b>Presentation </b>: 10min / team, Q&A
 - <b>Keep in mind </b>: <font color='#CC0000'><b> Share Lessons Learned !! </b></font>
