@@ -148,7 +148,7 @@
 		<td>
         	<div align="center"> 
 				<a href="./reports/Goorm2209_Project_AMEX_OhDO.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
-				<a href="https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3076e909-db81-4e46-b2e5-f233e5613e97">데이터 셋으로</a> &nbsp;&nbsp;&nbsp;
+				<a href="https://www.kaggle.com/competitions/amex-default-prediction">데이터 URL</a> &nbsp;&nbsp;&nbsp;
 			</div>
         </td>
 		<td>
@@ -171,13 +171,14 @@
 			<div align="left"> American Express - Default Prediction </div>
 		</td>
 		<td>
-        	<div align="center"> <a href="">
+        		<div align="center"> <a href="">
 			<img src='images/LimJY.jpg' width=200 height=100  alt="-----"></a>    
 			</div>
-        </td>
+        	</td>
 		<td>
-            <div align="center"> 
+            		<div align="center"> 
 				<a href="./reports/Goorm2209_Project_AMEX_LimJY.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;
+				<a href="https://www.kaggle.com/competitions/amex-default-prediction">데이터 URL</a> &nbsp;&nbsp;&nbsp;
 			</div>
         	</td>
 		<td>
