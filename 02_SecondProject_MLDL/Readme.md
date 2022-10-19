@@ -81,7 +81,7 @@
             		<div align="left">김현오</div>
         	</td>
 		<td>
-			<div align="left"> 표면 균열 검출 </div></td>
+			<div align="left"> 고화소 이미지에서 콘크리트 결함 찾기 - 표면 균열 검출 </div></td>
 		<td>
             		<div align="center"> <a href="">
 			<img src='images/KimHO.jpg' width=200 height=100  alt="image not found"></a>    
@@ -109,7 +109,7 @@
             		<div align="left">김태찬</div>
         	</td>
 		<td>
-			<div align="left"> -----------  </div></td>
+			<div align="left"> 기후 데이터를 활용한 태양광 발전량 예측 머신러닝 모델  </div></td>
 		<td>
             	<div align="center"> <a href="">
 				<img src='images/KimTC.jpg' width=200 height=100  alt="image not found"></a>    
