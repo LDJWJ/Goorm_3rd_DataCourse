@@ -89,7 +89,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="./reports/Goorm2209_PilotProject_KimHO_v02.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+				<a href="./reports/Goorm2209_Project_KimHO.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
 			</div>
         	</td>
 		<td>
@@ -117,7 +117,7 @@
         </td>
 		<td>
             	<div align="center"> 
-					<a href="./reports/Goorm2209_PilotProject_KimTC.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+					<a href="./reports/Goorm2209_Project_KimTC.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
 					<a href="https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package">데이터 셋으로</a> &nbsp;&nbsp;&nbsp;
 				</div>
         </td>
@@ -146,7 +146,7 @@
         </td>
 		<td>
         	<div align="center"> 
-				<a href="./reports/Goorm2209_PilotProject_OhDO.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+				<a href="./reports/Goorm2209_Project_AMEX_OhDO.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
 				<a href="https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3076e909-db81-4e46-b2e5-f233e5613e97">데이터 셋으로</a> &nbsp;&nbsp;&nbsp;
 			</div>
         </td>
@@ -176,7 +176,7 @@
         </td>
 		<td>
             <div align="center"> 
-				<a href="./reports/Goorm2209_PilotProject_LimJY.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;
+				<a href="./reports/Goorm2209_Project_AMEX_LimJY.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;
 			</div>
         	</td>
 		<td>
