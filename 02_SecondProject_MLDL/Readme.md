@@ -90,6 +90,7 @@
 		<td>
             		<div align="center"> 
 				<a href="./reports/Goorm2209_Project_KimHO.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
+				<a href="https://www.kaggle.com/datasets/arunrk7/surface-crack-detection">데이터URL</a>
 			</div>
         	</td>
 		<td>
@@ -118,7 +119,7 @@
 		<td>
             	<div align="center"> 
 					<a href="./reports/Goorm2209_Project_KimTC.pdf">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;<br>	
-					<a href="https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package">데이터 셋으로</a> &nbsp;&nbsp;&nbsp;
+					<a href="https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package">데이터URL</a> &nbsp;&nbsp;&nbsp;
 				</div>
         </td>
 		<td>
