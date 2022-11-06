@@ -177,14 +177,14 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href=".">[프로젝트기획서]</a> &nbsp;&nbsp;&nbsp;
+				[프로젝트기획서] &nbsp;&nbsp;&nbsp;
 				<a href="https://www.kaggle.com/competitions/amex-default-prediction">데이터 URL</a> &nbsp;&nbsp;&nbsp;
 			</div>
         	</td>
 		<td>
             <div align="center"> 
-				<a href="결과링크">[우리의 작품]</a><br>
-				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
+				[우리의 작품]<br>
+				[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             </div>
         </td>
 	</tr>
