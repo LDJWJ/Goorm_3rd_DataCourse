@@ -177,7 +177,6 @@
         	</td>
 		<td>
             		<div align="center"> 
-				[프로젝트기획서] &nbsp;&nbsp;&nbsp;
 				<a href="https://www.kaggle.com/competitions/amex-default-prediction">데이터 URL</a> &nbsp;&nbsp;&nbsp;
 			</div>
         	</td>
