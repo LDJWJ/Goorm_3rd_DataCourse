@@ -99,7 +99,7 @@
 	</tr>
 	<tr>
 		<td>
-			<div align="center"> 팀명: 김태찬 <br/> 
+			<div align="center"> 팀명:  <br/> 
 				<b></b>
 			</div>
 		</td>
@@ -128,12 +128,12 @@
 	</tr>
 	<tr>
 		<td>
-			<div align="center"> 팀명: 오동익 <br/> 
+			<div align="center"> 팀명: DongIk <br/> 
 				<b></b>
 			</div>
 		</td>
 		<td>
-            <div align="left">오동익</div>
+            <div align="left">DongIk</div>
         </td>
 		<td>
 			<div align="left"> 각 분야별 예술인 목록 분석 <br> 데이터셋: 예술디지털 아카이브 정보 </div></td>
@@ -157,12 +157,12 @@
 	</tr>
 	<tr>
 		<td>
-			<div align="center"> 팀명: J & J <br/> 
+			<div align="center"> 팀명: 지윤 <br/> 
 				<b></b>
 			</div>
 		</td>
 		<td>
-            <div align="left">J & J</div>
+            <div align="left"> 지윤 </div>
         </td>
 		<td>
 			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div>
