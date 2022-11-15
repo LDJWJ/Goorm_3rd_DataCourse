@@ -179,8 +179,7 @@
         	</td>
 		<td>
             <div align="center"> 
-				<a href="결과링크">[결과보고]</a><br>
-				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; <br>
+				[결과보고]<br><br>
 				<a href="https://data.jeonju.go.kr/data/main/board.action?cmsid=101050100000&target=&psize=10&cc=&st=0&sk=&method=v&idx=203&page=1">[대회]</a> &nbsp;&nbsp;&nbsp;
             </div>
         </td>
