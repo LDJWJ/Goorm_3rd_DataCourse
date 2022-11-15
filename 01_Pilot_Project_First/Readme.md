@@ -157,12 +157,12 @@
 	</tr>
 	<tr>
 		<td>
-			<div align="center"> 팀명: 임지윤 <br/> 
+			<div align="center"> 팀명: J & J <br/> 
 				<b></b>
 			</div>
 		</td>
 		<td>
-            <div align="left">임지윤</div>
+            <div align="left">J & J</div>
         </td>
 		<td>
 			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 <br> <b>전주시 공공데이터 공모전 2022 최우수상 수상</b> </div>
@@ -180,7 +180,7 @@
 		<td>
             <div align="center"> 
 				<a href="결과링크">[결과보고]</a><br>
-				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
+				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; <br>
 				<a href="https://data.jeonju.go.kr/data/main/board.action?cmsid=101050100000&target=&psize=10&cc=&st=0&sk=&method=v&idx=203&page=1">[대회]</a> &nbsp;&nbsp;&nbsp;
             </div>
         </td>
