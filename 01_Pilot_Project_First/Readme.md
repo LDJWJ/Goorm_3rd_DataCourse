@@ -99,7 +99,7 @@
 	</tr>
 	<tr>
 		<td>
-			<div align="center"> 팀명:  <br/> 
+			<div align="center"> 팀명: 김태찬 <br/> 
 				<b></b>
 			</div>
 		</td>
