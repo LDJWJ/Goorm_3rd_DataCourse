@@ -165,7 +165,7 @@
             <div align="left">임지윤</div>
         </td>
 		<td>
-			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 </div>
+			<div align="left"> 전라북도 전주시 불법 주정차 문제해결을 위한 요인분석 <br> 전주시 공공데이터 공모전 2022 최우수상 수상 </div>
 		</td>
 		<td>
         	<div align="center"> <a href="">
