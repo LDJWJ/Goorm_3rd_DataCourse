@@ -92,7 +92,7 @@
         	</td>
 		<td>
             		<div align="center"> 
-				<a href="결과링크">[결과보고]</a><br>
+				<a href="https://github.com/LDJWJ/Goorm_3rd_DataCourse/blob/main/01_Pilot_Project_First/last_reports/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B5%9C%EC%A2%85_KimHO.pdf">[결과보고]</a><br>
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             		</div>
         	</td>
@@ -121,7 +121,7 @@
         </td>
 		<td>
             	<div align="center"> 
-					<a href="결과링크">[결과보고]</a><br>
+					<a href="https://github.com/LDJWJ/Goorm_3rd_DataCourse/blob/main/01_Pilot_Project_First/last_reports/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B5%9C%EC%A2%85_KimTC.pdf">[결과보고]</a><br>
 					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
             	</div>
         </td>
